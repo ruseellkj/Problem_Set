@@ -6,7 +6,7 @@ int main()
     int n;
     cin >> n;
     int i = 0, ans =0;
-    while (n != 0)
+    while (n != NULL)
     {
         // int i=0, ans;
         // taking out the single digit
