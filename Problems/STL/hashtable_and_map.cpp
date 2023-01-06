@@ -19,6 +19,7 @@ int main()
     // unordered_map<char,pair<int,char>> q;
     // unordered_map<string,int> q;
 
+    // 1st way
     // q[3] = 7;
     // cout << q[3] << endl;
 
