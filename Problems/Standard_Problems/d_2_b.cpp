@@ -5,7 +5,7 @@ int main(){
     int n;
     cin >> n;
     int i=0, ans=0;
-    while(n!=0){
+    while(n!=NULL){
 
         // taking out the bit
         int bit = n&1;
