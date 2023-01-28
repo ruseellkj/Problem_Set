@@ -4,7 +4,7 @@ using namespace std;
 // Function to reverse a string
 void reverseStr(string &str)
 {
-	int n = str.length();
+	int n = str.size();
 
 	// Swap character starting from two
 	// corners
@@ -17,6 +17,6 @@ int main()
 {
 	string str = "rushil";
 	reverseStr(str);
-	cout << str;
+	// cout << str;
 	return 0;
 }
